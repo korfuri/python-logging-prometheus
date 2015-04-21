@@ -11,7 +11,7 @@ instructions.
 """
 
 setup(
-    name="python-logging-prometheus",
+    name="logging-prometheus",
     version="0.0.1",
     author="Uriel Corfa",
     author_email="uriel@corfa.fr",

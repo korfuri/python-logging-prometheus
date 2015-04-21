@@ -1,8 +1,14 @@
 # python-logging-prometheus
 Export metrics about your Python application's logging volume for Prometheus.io.
 
-[![PyPI version](https://badge.fury.io/py/python-logging-prometheus.svg)](http://badge.fury.io/py/python-logging-prometheus)
+[![PyPI version](https://badge.fury.io/py/logging-prometheus.svg)](http://badge.fury.io/py/logging-prometheus)
 [![Build Status](https://travis-ci.org/korfuri/python-logging-prometheus.svg?branch=master)](https://travis-ci.org/korfuri/python-logging-prometheus)
+
+## Installation
+
+```shell
+pip install logging_prometheus
+```
 
 ## Usage
 
