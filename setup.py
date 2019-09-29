@@ -12,7 +12,7 @@ instructions.
 
 setup(
     name="logging-prometheus",
-    version="0.0.1",
+    version="0.1.0",
     author="Uriel Corfa",
     author_email="uriel@corfa.fr",
     description=(
